@@ -1,2 +1,2 @@
 # hello-world
-someone new to this
+Learning to program, starting with Python
